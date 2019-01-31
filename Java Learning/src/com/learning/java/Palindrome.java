@@ -9,7 +9,7 @@ public class Palindrome {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter a palindrome word");
 		String word = sc.next();
-		
+		//TODO condition the given word for it to be  palindrome
 		
 	}
 }
